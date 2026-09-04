@@ -1,7 +1,0 @@
-streamlit
-ultralytics
-torch
-supervision
-opencv-python-headless
-pillow
-numpy
