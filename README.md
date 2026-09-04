@@ -1,16 +1,3 @@
----
-title: Object Counter
-emoji: 🔎
-colorFrom: blue
-colorTo: indigo
-sdk: gradio
-sdk_version: "5.9.1"
-app_file: app.py
-pinned: false
-license: mit
-short_description: Count any object in an image by typing what to look for
----
-
 # Object Counter
 
 Count any object in an image — people, cars, sticks, steel rods, or anything else you can name — using open-vocabulary object detection. Type what you want counted at runtime; no fixed class list, no training required.
