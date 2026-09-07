@@ -1,0 +1,9 @@
+ultralytics
+torch
+supervision
+gradio
+streamlit
+opencv-python-headless
+pillow
+numpy
+git+https://github.com/ultralytics/CLIP.git
