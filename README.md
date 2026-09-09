@@ -108,6 +108,3 @@ Installed automatically via `requirements.txt` / the notebook's install cell:
 - `opencv-python-headless`
 - `pillow`
 
-## License
-
-MIT — set in the Spaces config block above. Add a `LICENSE` file with the full MIT text if you also want it to show up as the repo's license on GitHub. Change the `license:` field in that block if you'd prefer something else.
